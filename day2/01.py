@@ -22,5 +22,3 @@ while count < 100:
 print(sum)
 
 
-
-#
